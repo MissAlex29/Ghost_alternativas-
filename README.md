@@ -1,1 +1,1 @@
-# C19V2---Ghost-terminado-
+# C19V2---Ghost-con modificación para No salir del borde
